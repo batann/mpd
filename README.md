@@ -1,6 +1,6 @@
 # mpd
 ### mpd ncmpcc wildmidi
-###### **installation script*
+###### *installation script*
 _forked from nowhere_
 
 
